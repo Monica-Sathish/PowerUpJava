@@ -1,4 +1,3 @@
-package collections_oops;
 
 import java.util.*;
 
